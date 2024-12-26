@@ -2,6 +2,10 @@
 ## 🚀 Showcasing My Latest Project: Pizza Sales Data Analysis Using MySQL 🍕📊
 I’m excited to share one of my recent projects where I applied MySQL to analyze a fictional pizza sales dataset! This project highlights my ability to work with relational databases and generate actionable insights for business decision-making.
 
+## Project :-
+![sql pizza](https://github.com/user-attachments/assets/ead1fc44-4683-4857-85cc-221dcc3e31a9)
+
+
 ## 🔍 Key Objectives and Insights:
 
 ✅ Retrieved and summarized key metrics, such as the total number of orders placed and total revenue generated.
